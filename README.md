@@ -13,7 +13,8 @@
  
 [발표자료<img src="ppt.jpg"/>](/project.pptx)<br>
 <br> <br> 
-  <iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/9TLiFboJWp8" title="[동양미래대학교] 미래 딱! 대 (Full.ver)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # 3. 프로젝트 결과
 프로젝트 결과를 추가하세요. 발표자료. 시연동영상을 추가하세요.
@@ -24,9 +25,8 @@
 
 [발표자료<img src="ppt.jpg"/>](/project.pptx)<br>
 ## 시연 동영상 
-
-  <iframe width="424" height="238" src="https://www.youtube.com/embed/reOGfxYJre0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/9TLiFboJWp8" title="[동양미래대학교] 미래 딱! 대 (Full.ver)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
 # 4. 기타
 그외 프로젝트를 더욱 설명할수 있는 것들을 추가하세요
  
